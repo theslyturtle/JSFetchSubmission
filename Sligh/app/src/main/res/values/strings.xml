@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">SlighFetchTakeHome</string>
-    <string name="item_id_label">id:</string>
-    <string name="error_message">Unable to connect to the server at this time, please try again later</string>
-    <string name="error_message_refresh">Unable to refresh the list at this time, please try again later</string>
-</resources>

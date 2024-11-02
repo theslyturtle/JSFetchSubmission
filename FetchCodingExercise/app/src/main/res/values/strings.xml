@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fetch Coding Exercise</string>
+    <string name="list_error">Could not fetch items</string>
+    <string name="refresh_error">Could not refresh items</string>
+</resources>
